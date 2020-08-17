@@ -1,2 +1,1 @@
-# akira-endo.github.io
-Akira Endo, MD
+# Akira Endo, MD
