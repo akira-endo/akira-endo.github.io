@@ -1,7 +1,7 @@
 ## Research interests
 Compared with other types of diseases, infectious diseases are unique in that protecting an individual from a disease also means protecting other people by reducing their risk of exposure to the pathogen. This “interdependency” makes the control of infectious disease outbreaks an important social agenda. My current research interests include disease spread within and across households/schools/workplaces, improving vaccine evaluation methodologies and optimal control strategies.
 
-## Publication
+## Publications
 1. Jit M, Jombart T, Nightingale ES, **Endo A**, Abbott S; LSHTM Centre for Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Edmunds WJ. Estimating number of cases and spread of coronavirus disease (COVID-19) using critical care admissions, United Kingdom, February to March 2020. Euro Surveill. 2020;25(18):2000632. [doi:10.2807/1560-7917.ES.2020.25.18.2000632](https://doi.org/10.2807/1560-7917.ES.2020.25.18.2000632)
 1. **Endo A**; Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Abbott S, Kucharski AJ, Funk S. Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China. Wellcome Open Res. 2020;5:67. [doi:10.12688/wellcomeopenres.15842.3](https://doi.org/10.12688/wellcomeopenres.15842.3)
 1. **Endo A**, Nishiura H. Age and geographic dependence of Zika virus infection during the outbreak on Yap island, 2007. Math Biosci Eng. 2020;17(4):4115-4126. [doi:10.3934/mbe.2020228](https://doi.org/10.3934/mbe.2020228)
@@ -14,7 +14,7 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 1. Mizumoto K, **Endo A**, Chowell G, Miyamatsu Y, Saitoh M, Nishiura H. Real-time characterization of risks of death associated with the Middle East respiratory syndrome (MERS) in the Republic of Korea, 2015. BMC Med. 2015;13:228. [doi:10.1186/s12916-015-0468-3](https://doi.org/10.1186/s12916-015-0468-3)
 1. **Endo A**, Nishiura H. Transmission dynamics of vivax malaria in the republic of Korea: Effectiveness of anti-malarial mass chemoprophylaxis. J Theor Biol. 2015;380:499-505. [doi:10.1016/j.jtbi.2015.06.024](https://doi.org/10.1016/j.jtbi.2015.06.024)
 
-## Publication (group authorship)
+## Publications (group authored)
 1. Firth JA, Hellewell J, Klepac P, Kissler S; **CMMID COVID-19 Working Group**, Kucharski AJ, Spurgin LG. Using a real-world network to model localized COVID-19 control strategies. Nat Med. 2020;10.1038/s41591-020-1036-8. [doi: 10.1038/s41591-020-1036-8. Epub ahead of print. PMID: 32770169](https://doi.org/10.1038/s41591-020-1036-8)
 1. Abbas K, Procter SR, van Zandvoort K, Clark A, Funk S, Mengistu T, Hogan D, Dansereau E, Jit M, Flasche S; **LSHTM CMMID COVID-19 Working Group**. Routine childhood immunisation during the COVID-19 pandemic in Africa: a benefit-risk analysis of health benefits versus excess risk of SARS-CoV-2 infection. Lancet Glob Health. 2020;S2214-109X(20)30308-9. [doi:10.1016/S2214-109X(20)30308-9](https://doi.org/10.1016/S2214-109X(20)30308-9)
 1. Leclerc QJ, Fuller NM, Knight LE; **CMMID COVID-19 Working Group, Funk S**, Knight GM. What settings have been linked to SARS-CoV-2 transmission clusters?. Wellcome Open Res. 2020;5:83. [doi:10.12688/wellcomeopenres.15889.2](https://doi.org/10.12688/wellcomeopenres.15889.2)
