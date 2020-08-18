@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Akira Endo, MD
 description: Infectious disease modeller
+[test](test)
 logo: /img/ae.jpg
