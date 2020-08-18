@@ -1,11 +1,36 @@
 ## Research interests
-Compared with other types of diseases, infectious diseases are unique in that protecting an individual from a disease also means protecting other people by reducing their risk of exposure to the pathogen. This “interdependency” makes the control of infectious disease outbreaks an important social agenda. Akira’s current research interests include disease spread within and across households/schools/workplaces, improving vaccine evaluation methodologies and optimal control strategies. During his Enrichment placement at the Turing, he also tries to incorporate rapidly advancing machine learning techniques into infectious disease modelling.
+Compared with other types of diseases, infectious diseases are unique in that protecting an individual from a disease also means protecting other people by reducing their risk of exposure to the pathogen. This “interdependency” makes the control of infectious disease outbreaks an important social agenda. My current research interests include disease spread within and across households/schools/workplaces, improving vaccine evaluation methodologies and optimal control strategies.
 
 ## Publication
+1. Jit M, Jombart T, Nightingale ES, **Endo A**, Abbott S; LSHTM Centre for Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Edmunds WJ. Estimating number of cases and spread of coronavirus disease (COVID-19) using critical care admissions, United Kingdom, February to March 2020. Euro Surveill. 2020;25(18):2000632. [doi:10.2807/1560-7917.ES.2020.25.18.2000632](https://doi.org/10.2807/1560-7917.ES.2020.25.18.2000632)
+1. **Endo A**, Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Abbott S, Kucharski AJ, Funk S. Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China. Wellcome Open Res. 2020;5:67. [doi:10.12688/wellcomeopenres.15842.3](https://doi.org/10.12688/wellcomeopenres.15842.3)
+1. **Endo A**, Nishiura H. Age and geographic dependence of Zika virus infection during the outbreak on Yap island, 2007. Math Biosci Eng. 2020;17(4):4115-4126. [doi:10.3934/mbe.2020228](https://doi.org/10.3934/mbe.2020228)
+1. **Endo A**, Uchida M, Kucharski AJ, Funk S. Fine-scale family structure shapes influenza transmission risk in households: Insights from primary schools in Matsumoto city, 2014/15. PLoS Comput Biol. 2019;15(12):e1007589. Published 2019 Dec 26. [doi:10.1371/journal.pcbi.1007589](https://doi.org/10.1371/journal.pcbi.1007589)
+1. **Endo A**, van Leeuwen E, Baguelin M. Introduction to particle Markov-chain Monte Carlo for disease dynamics modellers. Epidemics. 2019;29:100363. [doi:10.1016/j.epidem.2019.100363](https://doi.org/10.1016/j.epidem.2019.100363)
+1. **Endo A**, Ejima K, Nishiura H. Capturing the transmission dynamics of the 2009 Japanese pandemic influenza H1N1 in the presence of heterogeneous immunity. Ann Epidemiol. 2018;28(5):293-300.e1. [doi:10.1016/j.annepidem.2018.02.011](https://doi.org/10.1016/j.annepidem.2018.02.011)
+1. Nishiura H, Lee H, Yuan B, **Endo A**, Akhmetzhanov AR, Chowell G. Infectious disease risks among refugees from North Korea. Int J Infect Dis. 2018;66:22-25. [doi:10.1016/j.ijid.2017.10.021](https://doi.org/10.1016/j.ijid.2017.10.021)
+1. Endo A, Nishiura H. The Role of Migration in Maintaining the Transmission of Avian Influenza in Waterfowl: A Multisite Multispecies Transmission Model along East Asian-Australian Flyway. Can J Infect Dis Med Microbiol. 2018;2018:3420535. [doi:10.1155/2018/3420535](https://doi.org/10.1155/2018/3420535)
 1. Nishiura H, **Endo A**, Saitoh M, et al. Identifying determinants of heterogeneous transmission dynamics of the Middle East respiratory syndrome (MERS) outbreak in the Republic of Korea, 2015: a retrospective epidemiological analysis. BMJ Open. 2016;6(2):e009936. Published 2016 Feb 23. [doi:10.1136/bmjopen-2015-009936](https://doi.org/10.1136/bmjopen-2015-009936)
 1. Mizumoto K, **Endo A**, Chowell G, Miyamatsu Y, Saitoh M, Nishiura H. Real-time characterization of risks of death associated with the Middle East respiratory syndrome (MERS) in the Republic of Korea, 2015. BMC Med. 2015;13:228. [doi:10.1186/s12916-015-0468-3](https://doi.org/10.1186/s12916-015-0468-3)
 1. **Endo A**, Nishiura H. Transmission dynamics of vivax malaria in the republic of Korea: Effectiveness of anti-malarial mass chemoprophylaxis. J Theor Biol. 2015;380:499-505. [doi:10.1016/j.jtbi.2015.06.024](https://doi.org/10.1016/j.jtbi.2015.06.024)
 
-## Conferences
+## Publication (group authorship)
+1. Oshitani H; **Experts Members of The National COVID-19 Cluster Taskforce at Ministry of Health, Labour and Welfare, Japan**. Cluster-based approach to Coronavirus Disease 2019 (COVID-19) response in Japan-February-April 2020. Jpn J Infect Dis. 2020;10.7883/yoken.JJID.2020.363. [doi:10.7883/yoken.JJID.2020.363](https://doi.org/10.7883/yoken.JJID.2020.363)
+1. Davies NG, Kucharski AJ, Eggo RM, Gimma A, Edmunds WJ; **Centre for the Mathematical Modelling of Infectious Diseases COVID-19 working group**. Effects of non-pharmaceutical interventions on COVID-19 cases, deaths, and demand for hospital services in the UK: a modelling study. Lancet Public Health. 2020;5(7):e375-e385. [doi:10.1016/S2468-2667(20)30133-X](https://doi.org/10.1016/S2468-2667(20)30133-X)
 
-## Awards, funding and scholarships
+## Conferences
+1. **Endo A**, Uchida M, Kucharski AJ, Funk S. Fine-scale family structure shapes influenza transmission risk in households: Insights from primary schools in Matsumoto city, 2014/15. Epidemics 7 Conference, Charleston, Dec, 2019. (Oral)
+1. **Endo A**, Nishiura H. The role of migration in maintaining the transmission ofavian influenza in waterfowl: a multi-site multi-species transmission model along East Asian-Australian Flyway”Epidemics 6 Conference, Sitges, Nov. 2017.15. (Poster)
+1. **Endo A**, Lessler J, Nishiura H. Multiexponential fitting to coarsely-reported case in-cidence: analysis of heterogeneous transmission in pH1N1 epidemic in Gifu, Japan. InnovativeMathematical Modeling for the Analysis of Infectious Disease Data, Kobe, Oct. 2016. (Oral)
+1. **Endo A**, Funk S, Kucharski AJ, Nishiura H. Detecting evolution in zoonoticpathogen during the course of an outbreak: a mathematical model based on contact history with wildlife. International Society for Environmental Epidemiology and International Societyof Exposure Science Asia Chapter Conference, Sapporo, June 2016. (Oral)
+1. **Endo A**, Nishiura H. A method for calculating the lifetime risk reduction of infection induced by newly implemented vaccination program. International Conference on EmergingInfectious Diseases, Atlanta, Sept. 2015. (Poster)
+1. **Endo A**, Nishiura H. Transmission dynamics of vivax malaria in the republic ofKorea: effectiveness of anti-malarial mass chemoprophylaxis. Challenges in Malaria Research,Oxford, Sept. 2014. (Poster)
+
+## Awards and Scholarships
+1. Lnest Grant Taisho Pharmaceutical Award (2020)
+1. The Alan Turing Institute Enrichment Student (2019)
+1. British Council Japan Association Scholar Award (2017)
+1. The Nakajima Foundation Overseas Scholarship (2017)
+1. The Social Medicine Promotion Foundation Araki Award for Student (2016)
+1. The Social Medicine Promotion Foundation Araki Award for Student (2015)
+1. Kyoya Scholars (2011)
