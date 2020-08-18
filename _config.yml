@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Akira Endo, MD
-description: Infectious disease modeller at London School of Hygiene & Tropical Medicine. <br/> <a href="https://orcid.org/0000-0001-6377-7296"> [ORCID] </a> <a href="https://scholar.google.co.jp/citations?user=M-fArWcAAAAJ"> [Google Scholar] </a> <a href="http://twitter.com/_akiraendo/"> [Twitter] </a> <br/><br/>
+description: Infectious disease modeller at London School of Hygiene & Tropical Medicine. <br/> <a href="https://orcid.org/0000-0001-6377-7296", target="_blank"> [ORCID] </a> <a href="https://scholar.google.co.jp/citations?user=M-fArWcAAAAJ", target="_blank"> [Google Scholar] </a> <a href="http://twitter.com/_akiraendo/", target="_blank"> [Twitter] </a> <br/><br/>
 logo: /img/ae.jpg
