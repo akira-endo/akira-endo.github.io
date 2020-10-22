@@ -8,7 +8,7 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 1. Abbott S, Hellewell J, Thompson RN, Sherratt K, Gibbs HP, Bosse NI, Munday JD, Meakin S, Doughty EL, Chun JY, Chan YD, Finger F, Campbell P, **Endo A**, Pearson CAB, Gimma A, Russell T, CMMID COVID modelling group, Flasche S, Kucharski AJ, Eggo RM, Funk S. Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts [version 1; peer review: awaiting peer review]. Wellcome Open Res 2020, 5:112 [doi:10.12688/wellcomeopenres.16006.1](https://doi.org/10.12688/wellcomeopenres.16006.1)
 
 ## Publications
-1. Nishi A, Dewey G†, **Endo A**†, Neman S, Iwamoto SK, Ni MY, Tsugawa Y, Iosifidis G, Smith JD, Young S. Network Interventions for Managing the COVID-19 Pandemic and Sustaining Economy. Proc Natl Acad Sci U S A (in press) 
+1. Nishi A, Dewey G†, **Endo A**†, Neman S, Iwamoto SK, Ni MY, Tsugawa Y, Iosifidis G, Smith JD, Young S. Network Interventions for Managing the COVID-19 Pandemic and Sustaining Economy. Proc Natl Acad Sci U S A. 2020. (in press) 
 1. **Endo A**, Funk S, Kucharski AJ. Bias correction methods for test-negative designs in the presence of misclassification. Epidemiology and Infection. 2020;148:E216. [doi:10.1017/S0950268820002058](https://doi.org/10.1017/S0950268820002058)
 1. Jit M, Jombart T, Nightingale ES, **Endo A**, Abbott S; LSHTM Centre for Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Edmunds WJ. Estimating number of cases and spread of coronavirus disease (COVID-19) using critical care admissions, United Kingdom, February to March 2020. Euro Surveill. 2020;25(18):2000632. [doi:10.2807/1560-7917.ES.2020.25.18.2000632](https://doi.org/10.2807/1560-7917.ES.2020.25.18.2000632)
 1. **Endo A**; Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Abbott S, Kucharski AJ, Funk S. Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China. Wellcome Open Res. 2020;5:67. [doi:10.12688/wellcomeopenres.15842.3](https://doi.org/10.12688/wellcomeopenres.15842.3)
@@ -35,6 +35,9 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 1. Clifford S, Pearson CAB, Klepac P, Van Zandvoort K, Quilty BJ; **CMMID COVID-19 working group**, Eggo RM, Flasche S. Effectiveness of interventions targeting air travellers for delaying local outbreaks of SARS-CoV-2. J Travel Med. 2020;taaa068. [doi: 10.1093/jtm/taaa068](https://doi.org/10.1093/jtm/taaa068)
 1. Kucharski AJ, Klepac P, Conlan AJK, Kissler SM, Tang ML, Fry H, Gog JR, Edmunds WJ; **CMMID COVID-19 working group**. Effectiveness of isolation, testing, contact tracing, and physical distancing on reducing transmission of SARS-CoV-2 in different settings: a mathematical modelling study. Lancet Infect Dis. 2020;S1473-3099(20)30457-6. [doi: 10.1016/S1473-3099(20)30457-6.](https://doi.org/10.1016/S1473-3099(20)30457-6.)
 1. Davies NG, Kucharski AJ, Eggo RM, Gimma A, Edmunds WJ; **Centre for the Mathematical Modelling of Infectious Diseases COVID-19 working group**. Effects of non-pharmaceutical interventions on COVID-19 cases, deaths, and demand for hospital services in the UK: a modelling study. Lancet Public Health. 2020;5(7):e375-e385. [doi:10.1016/S2468-2667(20)30133-X](https://doi.org/10.1016/S2468-2667(20)30133-X)
+
+## Journal correspondence
+1. **Endo A**. Letter to the Editor. Clin Infect Dis. 2020. (in press)
 
 ## Conferences
 1. **Endo A**, Uchida M, Kucharski AJ, Funk S. Social structure shapes transmission patterns of influenza in schools and households: insights from Matsumoto city, Japan, 2014/15. The 30th Annual Scientific Meeting of the Japan Epidemiological Association, Tokyo, Feb. 2020. (Poster)
