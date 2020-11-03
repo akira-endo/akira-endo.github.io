@@ -3,11 +3,11 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 
 ## Preprints
 1. Munday JD, Sherratt K, Meakin S, **Endo A**, Pearson CAB, Hellewell J, Abbott S, Bosse N; CMMID COVID-19 Working Group, Atkins KE, Wallinga J, Edmunds WJ, van Hoek AJ, Funk S. Implications of the school-household network structure on SARS-CoV-2 transmission under different school reopening strategies in England. medRxiv 2020.08.21.20167965. [doi:10.1101/2020.08.21.20167965](https://doi.org/10.1101/2020.08.21.20167965)
-1. **Endo A**; Centre for the Mathematical Modelling of Infectious Diseases (CMMID) COVID-19 Working Group, Leclerc QJ, Knight GM, Medley GF, Atkins KE, Funk S, Kucharski AJ. Implication of backward contact tracing in the presence of overdispersed transmission in COVID-19 outbreak. medRxiv 2020.08.01.20166595. [doi:10.1101/2020.08.01.20166595](https://doi.org/10.1101/2020.08.01.20166595)
 1. Clifford S, Quilty BJ, Russell TW, Liu Y, Chan YD, Pearson CAB, Eggo RM, **Endo A**; CMMID COVID-19 Working Group, Flasche S, Edmunds WJ. Strategies to reduce the risk of SARS-CoV-2 re-introduction from international travellers. medRxiv 2020.07.24.20161281. [doi:10.1101/2020.07.24.20161281](https://doi.org/10.1101/2020.07.24.20161281)
 1. Abbott S, Hellewell J, Thompson RN, Sherratt K, Gibbs HP, Bosse NI, Munday JD, Meakin S, Doughty EL, Chun JY, Chan YD, Finger F, Campbell P, **Endo A**, Pearson CAB, Gimma A, Russell T, CMMID COVID modelling group, Flasche S, Kucharski AJ, Eggo RM, Funk S. Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts [version 1; peer review: awaiting peer review]. Wellcome Open Res 2020, 5:112 [doi:10.12688/wellcomeopenres.16006.1](https://doi.org/10.12688/wellcomeopenres.16006.1)
 
 ## Publications
+1. **Endo A**; Centre for the Mathematical Modelling of Infectious Diseases (CMMID) COVID-19 Working Group, Leclerc QJ, Knight GM, Medley GF, Atkins KE, Funk S, Kucharski AJ. Implication of backward contact tracing in the presence of overdispersed transmission in COVID-19 outbreak. Wellcome Open Res. 2020;5:239. [doi:10.12688/wellcomeopenres.16344.1](https://doi.org/10.12688/wellcomeopenres.16344.1)
 1. Nishi A, Dewey G†, **Endo A**†, Neman S, Iwamoto SK, Ni MY, Tsugawa Y, Iosifidis G, Smith JD, Young S. Network Interventions for Managing the COVID-19 Pandemic and Sustaining Economy. Proc Natl Acad Sci U S A. 2020. (in press) 
 1. **Endo A**, Funk S, Kucharski AJ. Bias correction methods for test-negative designs in the presence of misclassification. Epidemiology and Infection. 2020;148:E216. [doi:10.1017/S0950268820002058](https://doi.org/10.1017/S0950268820002058)
 1. Jit M, Jombart T, Nightingale ES, **Endo A**, Abbott S; LSHTM Centre for Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Edmunds WJ. Estimating number of cases and spread of coronavirus disease (COVID-19) using critical care admissions, United Kingdom, February to March 2020. Euro Surveill. 2020;25(18):2000632. [doi:10.2807/1560-7917.ES.2020.25.18.2000632](https://doi.org/10.2807/1560-7917.ES.2020.25.18.2000632)
@@ -37,7 +37,7 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 1. Davies NG, Kucharski AJ, Eggo RM, Gimma A, Edmunds WJ; **Centre for the Mathematical Modelling of Infectious Diseases COVID-19 working group**. Effects of non-pharmaceutical interventions on COVID-19 cases, deaths, and demand for hospital services in the UK: a modelling study. Lancet Public Health. 2020;5(7):e375-e385. [doi:10.1016/S2468-2667(20)30133-X](https://doi.org/10.1016/S2468-2667(20)30133-X)
 
 ## Journal correspondence
-1. **Endo A**. Letter to the Editor. Clin Infect Dis. 2020. (in press) [doi:10.1093/cid/ciaa1656](https://doi.org/10.1093/cid/ciaa1656)
+1. **Endo A**. Estimated sensitivity values of SARS-CoV-2 tests from cross-sectional data warrant caution due to unvalidated model assumptions. Clin Infect Dis. 2020. (in press) [doi:10.1093/cid/ciaa1656](https://doi.org/10.1093/cid/ciaa1656)
 
 ## Conferences
 1. **Endo A**, Uchida M, Kucharski AJ, Funk S. Social structure shapes transmission patterns of influenza in schools and households: insights from Matsumoto city, Japan, 2014/15. The 30th Annual Scientific Meeting of the Japan Epidemiological Association, Tokyo, Feb. 2020. (Poster)
