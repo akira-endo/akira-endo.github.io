@@ -2,8 +2,8 @@
 Compared with other types of diseases, infectious diseases are unique in that protecting an individual from a disease also means protecting other people by reducing their risk of exposure to the pathogen. This “interdependency” makes the control of infectious disease outbreaks an important social agenda. My current research interests include disease spread within and across households/schools/workplaces, improving vaccine evaluation methodologies and optimal control strategies.
 
 ## Education
-* **PhD**. Faculty of Epidemiology and Population Health, London School of Hygiene & Tropical Medicine, 2021
-* **MD & BSc**. Faculty of Medicine, The University of Tokyo, 2017
+* **PhD**. Faculty of Epidemiology and Population Health, London School of Hygiene & Tropical Medicine. 2021.
+* **MD & BSc**. Faculty of Medicine, The University of Tokyo. 2017.
 
 ## Preprints
 1. **Endo A**; CMMID COVID-19 Working Group, Uchida M, Liu Y, Atkins KE, Kucharski AJ, Funk S. Within and between classroom transmission patterns of seasonal influenza and implications for pandemic management strategies at schools. Research Square. 2020. [doi:10.21203/rs.3.rs-322366/v1](https://doi.org/10.21203/rs.3.rs-322366/v1)
