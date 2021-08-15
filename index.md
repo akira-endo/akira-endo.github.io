@@ -6,6 +6,7 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 * **MD & BSc**. Faculty of Medicine, The University of Tokyo. 2017.
 
 ## Preprints
+1. **Endo A**, Uchida M, Hayashi N, Liu Y, Atkins KE, Kucharski AJ, Funk S. Within and between classroom transmission patterns of seasonal influenza among primary school students in Matsumoto city, Japan. medRxiv. 2021.07.08.21259917. [doi:10.1101/2021.07.08.21259917](https://doi.org/10.1101/2021.07.08.21259917)
 1. Hart WS, Abbott S, **Endo A**, Hellewell J, Miller E, Andrews N, Maini PK, Funk S, Thompson RN. Inference of SARS-CoV-2 generation times using UK household data. 
 medRxiv 2021.05.27.21257936. 2021. [doi: 10.1101/2021.05.27.21257936](https://doi.org/10.1101/2021.05.27.21257936)
 1. **Endo A**; CMMID COVID-19 Working Group, Uchida M, Liu Y, Atkins KE, Kucharski AJ, Funk S. Within and between classroom transmission patterns of seasonal influenza and implications for pandemic management strategies at schools. Research Square. 2020. [doi:10.21203/rs.3.rs-322366/v1](https://doi.org/10.21203/rs.3.rs-322366/v1)
