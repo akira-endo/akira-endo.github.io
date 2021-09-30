@@ -71,7 +71,7 @@ medRxiv 2021.05.27.21257936. 2021. [doi: 10.1101/2021.05.27.21257936](https://do
 1. **Endo A**, Nishiura H. Transmission dynamics of vivax malaria in the republic of Korea: effectiveness of anti-malarial mass chemoprophylaxis. Challenges in Malaria Research, Oxford, Sept. 2014. (Poster)
 
 ## Awards and Scholarships
-1. UCLA Asia Pacific Center Faculty Grant Wagatsuma Fellowship Award, co-PI (2021)
+1. UCLA Asia Pacific Center Faculty Grant Wagatsuma Fellowship Award (co-PI) (2021)
 2. Japan Society for the Promotion of Science Overseas Research Fellowship (2021)
 3. Lnest Grant Taisho Pharmaceutical Award (2020)
 4. The Alan Turing Institute Enrichment Student (2019)
