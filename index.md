@@ -6,12 +6,11 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 * **MD & BSc**. Faculty of Medicine, The University of Tokyo. 2017.
 
 ## Preprints
-1. Hart WS, Abbott S, **Endo A**, Hellewell J, Miller E, Andrews N, Maini PK, Funk S, Thompson RN. Inference of SARS-CoV-2 generation times using UK household data. 
-medRxiv 2021.05.27.21257936. 2021. [doi: 10.1101/2021.05.27.21257936](https://doi.org/10.1101/2021.05.27.21257936)
 1. **Endo A**; CMMID COVID-19 Working Group, Uchida M, Liu Y, Atkins KE, Kucharski AJ, Funk S. Within and between classroom transmission patterns of seasonal influenza and implications for pandemic management strategies at schools. Research Square. 2020. [doi:10.21203/rs.3.rs-322366/v1](https://doi.org/10.21203/rs.3.rs-322366/v1)
 1. Abbott S, Hellewell J, Thompson RN, Sherratt K, Gibbs HP, Bosse NI, Munday JD, Meakin S, Doughty EL, Chun JY, Chan YD, Finger F, Campbell P, **Endo A**, Pearson CAB, Gimma A, Russell T, CMMID COVID modelling group, Flasche S, Kucharski AJ, Eggo RM, Funk S. Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts [version 1; peer review: awaiting peer review]. Wellcome Open Res. 2020, 5:112 [doi:10.12688/wellcomeopenres.16006.1](https://doi.org/10.12688/wellcomeopenres.16006.1)
 
 ## Publications
+1. Hart WS, Abbott S, **Endo A**, Hellewell J, Miller E, Andrews N, Maini PK, Funk S, Thompson RN. Inference of the SARS-CoV-2 generation time using UK household data. Elife. 2022;11:e70767. [doi: 10.7554/eLife.70767](https://doi.org/10.7554/eLife.70767).
 1. **Endo A**, Uchida M, Hayashi N, Liu Y, Atkins KE, Kucharski AJ, Funk S. Within and between classroom transmission patterns of seasonal influenza among primary school students in Matsumoto city, Japan. Proc Natl Acad Sci U S A. 2021;118(46):e2112605118. [doi:10.1073/pnas.2112605118](https://doi.org/10.1073/pnas.2112605118)
 1. Jung S, **Endo A**, Akhmetzhanov AR, Nishiura H. Predicting the effective reproduction number of COVID-19: Inference using human mobility, temperature, and risk awareness. Int J Infect Dis. 2021. [doi:10.1016/j.ijid.2021.10.007](https://doi.org/10.1016/j.ijid.2021.10.007)
 1. Clifford S, Quilty BJ, Russell TW, Liu Y, Chan YD, Pearson CAB, Eggo RM, **Endo A**; CMMID COVID-19 Working Group, Flasche S, Edmunds WJ. Strategies to reduce the risk of SARS-CoV-2 importation from international travellers: modelling estimations for the United Kingdom, July 2020. Euro Surveill. 2021;26(39):2001440. [doi:10.2807/1560-7917.ES.2021.26.39.2001440](https://doi.org/10.2807/1560-7917.ES.2021.26.39.2001440)
