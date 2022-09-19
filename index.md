@@ -10,11 +10,11 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 * **MD & BSc**. Faculty of Medicine, The University of Tokyo. 2017.
 
 ## Preprints
-1. **Endo A**, Murayama H, Abbott S, et al. Heavy-tailed sexual contact networks and the epidemiology of monkeypox outbreak in non-endemic regions, May 2022. medRxiv. 2022. [doi: 10.1101/2022.06.13.22276353](https://doi.org/10.1101/2022.06.13.22276353)
 1. **Endo A**. 'Not finding causal effect’ is not ‘finding no causal effect’ of school closure on COVID-19 [version 1; peer review: 1 approved, 1 approved with reservations]. F1000Research. 2022;11:456 [doi: 10.12688/f1000research.111915.1](https://doi.org/10.12688/f1000research.111915.1)
 1. Abbott S, Hellewell J, Thompson RN, Sherratt K, Gibbs HP, Bosse NI, Munday JD, Meakin S, Doughty EL, Chun JY, Chan YD, Finger F, Campbell P, **Endo A**, Pearson CAB, Gimma A, Russell T, CMMID COVID modelling group, Flasche S, Kucharski AJ, Eggo RM, Funk S. Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts [version 1; peer review: awaiting peer review]. Wellcome Open Res. 2020, 5:112 [doi:10.12688/wellcomeopenres.16006.1](https://doi.org/10.12688/wellcomeopenres.16006.1)
 
 ## Publications
+1. **Endo A**, Murayama H, Abbott S, Ratnayake R, Pearson CAB, Edmunds WJ, Fearon E, Funk S. Heavy-tailed sexual contact networks and the epidemiology of monkeypox outbreak in the global outbreak, 2022. Science. (in press) [doi: 10.1101/2022.06.13.22276353](https://doi.org/10.1101/2022.06.13.22276353)
 1. **Endo A**, Asai Y, Tajima T, Endo M, Akiyama T, Matsunaga N, Ishioka H, Tsuzuki S, Ohmagari N. Temporal trends in microbial detection during the COVID-19 pandemic: analysis of the Japan Surveillance for Infection Prevention and Healthcare Epidemiology (J-SIPHE) database. J Infect Chemother. 2022. [doi:10.1016/j.jiac.2022.08.028](https://doi.org/10.1016/j.jiac.2022.08.028)
 1. **Endo A**; CMMID COVID-19 Working Group, Uchida M, Liu Y, Atkins KE, Kucharski AJ, Funk S. Simulating respiratory disease transmission within and between classrooms to assess pandemic management strategies at schools. Proc Natl Acad Sci U S A. 2022;119(37):e2203019119. [doi:10.1073/pnas.2203019119](https://doi.org/10.1073/pnas.2203019119)
 1. Hart WS, Abbott S, **Endo A**, Hellewell J, Miller E, Andrews N, Maini PK, Funk S, Thompson RN. Inference of the SARS-CoV-2 generation time using UK household data. Elife. 2022;11:e70767. [doi: 10.7554/eLife.70767](https://doi.org/10.7554/eLife.70767).
