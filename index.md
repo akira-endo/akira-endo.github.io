@@ -17,6 +17,7 @@ medRxiv 2022.07.14.22277647. [doi: 10.1101/2022.07.14.22277647](https://doi.org/
 1. Abbott S, Hellewell J, Thompson RN, Sherratt K, Gibbs HP, Bosse NI, Munday JD, Meakin S, Doughty EL, Chun JY, Chan YD, Finger F, Campbell P, **Endo A**, Pearson CAB, Gimma A, Russell T, CMMID COVID modelling group, Flasche S, Kucharski AJ, Eggo RM, Funk S. Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts [version 1; peer review: awaiting peer review]. Wellcome Open Res. 2020, 5:112 [doi:10.12688/wellcomeopenres.16006.1](https://doi.org/10.12688/wellcomeopenres.16006.1)
 
 ## Publications
+1. Tashiro M†, Sato S†, **Endo A**†, Hamashima R, Ito Y, Ashizawa N, Takeda K, Iwanaga N, Ide S, Fujita A, Takazono T, Yamamoto K, Tanaka T, Furumoto A, Yanagihara K, Mukae H, Fushimi K, Izumikawa K. Decreased community-acquired pneumonia coincided with rising awareness of precautions before governmental containment policy in Japan. PNAS Nexus. 2023;pgad153. [doi:10.1093/pnasnexus/pgad153](https://doi.org/10.1093/pnasnexus/pgad153)
 1. Han SM, Robert A, Masuda S, Yasaka T, Kanda S, Komori K, Saito N, Suzuki M, **Endo A**, Baguelin M, Ariyoshi K. Transmission dynamics of seasonal influenza in a remote island population. Sci Rep. 2023;13(1):5393. [doi: 10.1038/s41598-023-32537-0](https://doi.org/10.1038/s41598-023-32537-0)
 1. Tran N, Nishi A, Young LE, **Endo A**, Cumberland WG, Young SD. The role of perceived health in retention disparity: A HIV-testing-related behavioral intervention among African American and Latinx men who have sex with men in the United States. Prev Med Rep. 2023;33:102195. [doi:10.1016/j.pmedr.2023.102195](https://doi.org/10.1016/j.pmedr.2023.102195)
 1. **Endo A***, Murayama H, Abbott S, Ratnayake R, Pearson CAB, Edmunds WJ, Fearon E, Funk S. Heavy-tailed sexual contact networks and the epidemiology of monkeypox outbreak in the global outbreak, 2022. Science. 2022:eadd4507. [doi:10.1126/science.add4507](https://doi.org/10.1126/science.add4507)
@@ -44,7 +45,7 @@ medRxiv 2022.07.14.22277647. [doi: 10.1101/2022.07.14.22277647](https://doi.org/
 1. Mizumoto K, **Endo A**, Chowell G, Miyamatsu Y, Saitoh M, Nishiura H. Real-time characterization of risks of death associated with the Middle East respiratory syndrome (MERS) in the Republic of Korea, 2015. BMC Med. 2015;13:228. [doi:10.1186/s12916-015-0468-3](https://doi.org/10.1186/s12916-015-0468-3)
 1. **Endo A**, Nishiura H. Transmission dynamics of vivax malaria in the republic of Korea: Effectiveness of anti-malarial mass chemoprophylaxis. J Theor Biol. 2015;380:499-505. [doi:10.1016/j.jtbi.2015.06.024](https://doi.org/10.1016/j.jtbi.2015.06.024)
 
-(†Equal contribution)
+(†Equal contribution, *Corresponding author)
 
 ## Publications (consortium)
 1. Jarvis CI, Gimma A, van Zandvoort K, Wong KLM; **CMMID COVID-19 working group**, Edmunds WJ. The impact of local and national restrictions in response to COVID-19 on social contacts in England: a longitudinal natural experiment. BMC Med. 2021;19(1):52. [doi: 10.1186/s12916-021-01924-7](https://doi.org/10.1186/s12916-021-01924-7)
