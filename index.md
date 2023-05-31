@@ -93,6 +93,7 @@ medRxiv 2022.07.14.22277647. [doi: 10.1101/2022.07.14.22277647](https://doi.org/
 1. Davies NG, Kucharski AJ, Eggo RM, Gimma A, Edmunds WJ; **Centre for the Mathematical Modelling of Infectious Diseases COVID-19 working group**. Effects of non-pharmaceutical interventions on COVID-19 cases, deaths, and demand for hospital services in the UK: a modelling study. Lancet Public Health. 2020;5(7):e375-e385. [doi:10.1016/S2468-2667(20)30133-X](https://doi.org/10.1016/S2468-2667(20)30133-X)
 
 ## Journal correspondence
+1. **Endo A***, Jung S-m, Miura F. Mpox emergence in Japan: ongoing risk of establishment in Asia. Lancet. 2023 (in press). [doi:10.1016/S0140-6736(23)00766-3](https://doi.org/10.1016/S0140-6736(23)00766-3)
 1. **Endo A***. Estimated sensitivity values of SARS-CoV-2 tests from cross-sectional data warrant caution due to unvalidated model assumptions. Clin Infect Dis. 2020;ciaa1656, [doi:10.1093/cid/ciaa1656](https://doi.org/10.1093/cid/ciaa1656)
 
 ## Conferences
