@@ -10,7 +10,7 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 * **MD & BSc**. Faculty of Medicine, The University of Tokyo. 2017.
 
 ## Preprints
-1. Murayama H, Pearson CAB, Abbott S, Miura F, Jung S-m, Fearon E, Funk S, **Endo A***. Accumulation of immunity in heavy-tailed sexual contact networks shapes monkeypox outbreak sizes. medRxiv 2022.11.14.22282286 [doi: 10.1101/2022.11.14.22282286](https://doi.org/10.1101/2022.11.14.22282286)
+1. Murayama H, Pearson CAB, Abbott S, Miura F, Jung S-m, Fearon E, Funk S, **Endo A**\*. Accumulation of immunity in heavy-tailed sexual contact networks shapes monkeypox outbreak sizes. medRxiv 2022.11.14.22282286 [doi: 10.1101/2022.11.14.22282286](https://doi.org/10.1101/2022.11.14.22282286)
 1. Murayama H, **Endo A***, Yonekura S. Estimating waning vaccine effectiveness from population-level surveillance data in multi-variant epidemics.
 medRxiv 2022.07.14.22277647. [doi: 10.1101/2022.07.14.22277647](https://doi.org/10.1101/2022.07.14.22277647)
 1. **Endo A**. 'Not finding causal effect’ is not ‘finding no causal effect’ of school closure on COVID-19 [version 1; peer review: 1 approved, 1 approved with reservations]. F1000Research. 2022;11:456 [doi: 10.12688/f1000research.111915.1](https://doi.org/10.12688/f1000research.111915.1)
