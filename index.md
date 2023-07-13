@@ -10,14 +10,13 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 * **MD & BSc**. Faculty of Medicine, The University of Tokyo. 2017.
 
 ## Preprints
-1. Murayama H, Pearson CAB, Abbott S, Miura F, Jung S-m, Fearon E, Funk S, **Endo A***. Accumulation of immunity in heavy-tailed sexual contact networks shapes monkeypox outbreak sizes. medRxiv 2022.11.14.22282286 [doi: 10.1101/2022.11.14.22282286](https://doi.org/10.1101/2022.11.14.22282286)
 1. Murayama H, **Endo A***, Yonekura S. Estimating waning vaccine effectiveness from population-level surveillance data in multi-variant epidemics.
 medRxiv 2022.07.14.22277647. [doi: 10.1101/2022.07.14.22277647](https://doi.org/10.1101/2022.07.14.22277647)
 1. **Endo A**. 'Not finding causal effect’ is not ‘finding no causal effect’ of school closure on COVID-19 [version 1; peer review: 1 approved, 1 approved with reservations]. F1000Research. 2022;11:456 [doi: 10.12688/f1000research.111915.1](https://doi.org/10.12688/f1000research.111915.1)
 1. Abbott S, Hellewell J, Thompson RN, Sherratt K, Gibbs HP, Bosse NI, Munday JD, Meakin S, Doughty EL, Chun JY, Chan YD, Finger F, Campbell P, **Endo A**, Pearson CAB, Gimma A, Russell T, CMMID COVID modelling group, Flasche S, Kucharski AJ, Eggo RM, Funk S. Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts [version 1; peer review: awaiting peer review]. Wellcome Open Res. 2020, 5:112 [doi:10.12688/wellcomeopenres.16006.1](https://doi.org/10.12688/wellcomeopenres.16006.1)
 
 ## Publications
-1. Murayama H, Pearson CAB, Abbott S, Miura F, Jung S-m, Fearon E, Funk S, **Endo A***. Accumulation of immunity in heavy-tailed sexual contact networks shapes monkeypox outbreak sizes. J Infect Dis. 2023. (in press)
+1. Murayama H, Pearson CAB, Abbott S, Miura F, Jung S-m, Fearon E, Funk S, **Endo A***. Accumulation of immunity in heavy-tailed sexual contact networks shapes monkeypox outbreak sizes. J Infect Dis. 2023;jiad254. [doi:10.1093/infdis/jiad254](https://doi.org/10.1093/infdis/jiad254)
 1. Kitamura N, **Endo A**\*, Le LT, Nguyen TB, Do HT, Toizumi M, Yoshida LM, Mori Y, Rose S, Efstratiou A, Fry NK, Litt D. Evaluation and validation of a commercial ELISA versus the *in vitro* toxin neutralization assay for determination of diphtheria anti-toxin in human serum. J Med Microbiol. 2023;72(6) [doi:10.1099/jmm.0.001721](https://doi.org/10.1099/jmm.0.001721)
 1. Wegehaupt O, **Endo A**, Vassall A. Superspreading, overdispersion and their implications in the SARS-CoV-2 (COVID-19) pandemic: a systematic review and meta-analysis of the literature. BMC Public Health. 2023;23:1003. [doi:10.1186/s12889-023-15915-1](https://doi.org/10.1186/s12889-023-15915-1)
 1. Tashiro M†, Sato S†, **Endo A**†, Hamashima R, Ito Y, Ashizawa N, Takeda K, Iwanaga N, Ide S, Fujita A, Takazono T, Yamamoto K, Tanaka T, Furumoto A, Yanagihara K, Mukae H, Fushimi K, Izumikawa K. Decreased community-acquired pneumonia coincided with rising awareness of precautions before governmental containment policy in Japan. PNAS Nexus. 2023;pgad153. [doi:10.1093/pnasnexus/pgad153](https://doi.org/10.1093/pnasnexus/pgad153)
