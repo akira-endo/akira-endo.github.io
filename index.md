@@ -2,7 +2,8 @@
 Compared with other types of diseases, infectious diseases are unique in that protecting an individual from a disease also means protecting other people by reducing their risk of exposure to the pathogen. This “interdependency” makes the control of infectious disease outbreaks an important social agenda. My current research interests include disease spread within and across households/schools/workplaces, improving vaccine evaluation methodologies and optimal control strategies.
 
 ## Work
-* Assistant Professor, School of Tropical Medicine and Global Health, Nagasaki University, 2022–present
+* Assistant Professor, Saw Swee Hock School of Public Health, National University of Singapore, 2023–present
+* Assistant Professor, School of Tropical Medicine and Global Health, Nagasaki University, 2022–2023
 * Japan Society for the Promotion of Science Overseas Research Fellow (Visiting), London School of Hygiene & Tropical Medicine, 2021–present
 
 ## Education
