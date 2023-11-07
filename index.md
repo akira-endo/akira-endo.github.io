@@ -17,7 +17,7 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 
 ## Publications
 1. Murayama H, **Endo A***, Yonekura S. Estimating waning vaccine effectiveness from population-level surveillance data in multi-variant epidemics.
-Epidemics. (in press) [doi:10.1016/j.epidem.2023.100726](https://doi.org/10.1016/j.epidem.2023.100726)
+Epidemics. 2023;45:100726. [doi:10.1016/j.epidem.2023.100726](https://doi.org/10.1016/j.epidem.2023.100726)
 1. Murayama H, Pearson CAB, Abbott S, Miura F, Jung S-m, Fearon E, Funk S, **Endo A***. Accumulation of immunity in heavy-tailed sexual contact networks shapes monkeypox outbreak sizes. J Infect Dis. 2023;jiad254. [doi:10.1093/infdis/jiad254](https://doi.org/10.1093/infdis/jiad254)
 1. Kitamura N, **Endo A**\*, Le LT, Nguyen TB, Do HT, Toizumi M, Yoshida LM, Mori Y, Rose S, Efstratiou A, Fry NK, Litt D. Evaluation and validation of a commercial ELISA versus the *in vitro* toxin neutralization assay for determination of diphtheria anti-toxin in human serum. J Med Microbiol. 2023;72(6) [doi:10.1099/jmm.0.001721](https://doi.org/10.1099/jmm.0.001721)
 1. Wegehaupt O, **Endo A**, Vassall A. Superspreading, overdispersion and their implications in the SARS-CoV-2 (COVID-19) pandemic: a systematic review and meta-analysis of the literature. BMC Public Health. 2023;23:1003. [doi:10.1186/s12889-023-15915-1](https://doi.org/10.1186/s12889-023-15915-1)
