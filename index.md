@@ -98,22 +98,25 @@ Epidemics. 2023;45:100726. [doi:10.1016/j.epidem.2023.100726](https://doi.org/10
 1. **Endo A***. Estimated sensitivity values of SARS-CoV-2 tests from cross-sectional data warrant caution due to unvalidated model assumptions. Clin Infect Dis. 2020;ciaa1656, [doi:10.1093/cid/ciaa1656](https://doi.org/10.1093/cid/ciaa1656)
 
 ## Conferences
-1. **Endo A**. Understanding the global mpox epidemiology in the global outbreak. The 3rd Singapore International Public Health Conference & 17th Singapore Public Health & Occupational Medicine Conference, Singapore. 2023. (Invited)
-1. **Endo A**. Heavy-tailed sexual contact networks to understand the global mpox epidemiology. The 70th Annual Meeting of the Japanese Society for Virology, Sendai, Japan. 2023. (Invited)
+1. **Endo A**. Heavy-tailed sexual contact networks and the epidemiology of monkeypox outbreak in the global outbreak, 2022. Epidemics 9 Conference, Bologna, Dec. 2023. (Poster)
+1. **Endo A**. Understanding the global mpox epidemiology in the global outbreak. The 3rd Singapore International Public Health Conference & 17th Singapore Public Health & Occupational Medicine Conference, Singapore, Oct. 2023. (Invited)
+1. **Endo A**. Heavy-tailed sexual contact networks to understand the global mpox epidemiology. The 70th Annual Meeting of the Japanese Society for Virology, Sendai, Sept. 2023. (Invited)
 1. **Endo A**. Modelling of infectious disease spread over social structures and networks. Japan Society for Mathematical Biology Annual Meeting, online. 2022. (Invited)
-1. **Endo A**; CMMID COVID-19 Working Group, Uchida M, Liu Y, Atkins KE, Kucharski AJ, Funk S. Simulating respiratory disease transmission within and between classrooms to assess pandemic management strategies at schools. OPTIONS XI, Belfast, Sept. 2022 (Poster)
+1. **Endo A**; CMMID COVID-19 Working Group, Uchida M, Liu Y, Atkins KE, Kucharski AJ, Funk S. Simulating respiratory disease transmission within and between classrooms to assess pandemic management strategies at schools. OPTIONS XI, Belfast, Sept. 2022. (Poster)
 1. **Endo A**, Uchida M, Hayashi N, Liu Y, Atkins KE, Kucharski AJ, Funk S. Within and between classroom transmission patterns of seasonal
 influenza among primary school students in Matsumoto city, Japan. Epidemics 8 Conference, online, Dec. 2021. (Poster)
 1. **Endo A**, Uchida M, Kucharski AJ, Funk S. Social structure shapes transmission patterns of influenza in schools and households: insights from Matsumoto city, Japan, 2014/15. The 30th Annual Scientific Meeting of the Japan Epidemiological Association, Tokyo, Feb. 2020. (Poster)
 1. **Endo A**, Uchida M, Kucharski AJ, Funk S. Fine-scale family structure shapes influenza transmission risk in households: Insights from primary schools in Matsumoto city, 2014/15. Epidemics 7 Conference, Charleston, Dec, 2019. (Oral)
 1. **Endo A**, Funk S, Kucharski AJ. Bias correction methods for test-negatvie design in thepresence of misclassification” The 29th Annual Scientific Meeting of the Japan Epidemiological Association, Feb. 2019. (Oral)
-1. **Endo A**, Nishiura H. The role of migration in maintaining the transmission ofavian influenza in waterfowl: a multi-site multi-species transmission model along East Asian-Australian Flyway” Epidemics 6 Conference, Sitges, Nov. 2017.15. (Poster)
+1. **Endo A**, Nishiura H. The role of migration in maintaining the transmission ofavian influenza in waterfowl: a multi-site multi-species transmission model along East Asian-Australian Flyway” Epidemics 6 Conference, Sitges, Nov. 2017. (Poster)
 1. **Endo A**, Lessler J, Nishiura H. Multiexponential fitting to coarsely-reported case in-cidence: analysis of heterogeneous transmission in pH1N1 epidemic in Gifu, Japan. Innovative Mathematical Modeling for the Analysis of Infectious Disease Data, Kobe, Oct. 2016. (Oral)
 1. **Endo A**, Funk S, Kucharski AJ, Nishiura H. Detecting evolution in zoonotic pathogen during the course of an outbreak: a mathematical model based on contact history with wildlife. International Society for Environmental Epidemiology and International Society of Exposure Science Asia Chapter Conference, Sapporo, June 2016. (Oral)
 1. **Endo A**, Nishiura H. A method for calculating the lifetime risk reduction of infection induced by newly implemented vaccination program. International Conference on Emerging Infectious Diseases, Atlanta, Sept. 2015. (Poster)
 1. **Endo A**, Nishiura H. Transmission dynamics of vivax malaria in the republic of Korea: effectiveness of anti-malarial mass chemoprophylaxis. Challenges in Malaria Research, Oxford, Sept. 2014. (Poster)
 
 ## Grants, Awards and Scholarships
+1. Minister of Education, Culture Sports, Science and Technology of Japan Early Career Scientist Award (2024)
+1. National University of Singapore Startup Grant (2023)
 1. Nagasaki University impactful paper award in 2021 (2022)
 1. Japan Science and Technology Agency: Precursory Research for Embryonic Science and Technology grant (2022)
 1. Japan Society for Mathematical Biology: Early Career Award (2022)
