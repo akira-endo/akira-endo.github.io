@@ -3,7 +3,7 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 
 ## Work
 * Assistant Professor, Saw Swee Hock School of Public Health, National University of Singapore, 2023–present
-* Assistant Professor, School of Tropical Medicine and Global Health, Nagasaki University, 2022–2023
+* Assistant Professor, School of Tropical Medicine and Global Health, Nagasaki University, 2022–present
 * Japan Society for the Promotion of Science Overseas Research Fellow (Visiting), London School of Hygiene & Tropical Medicine, 2021–2023
 
 ## Education
