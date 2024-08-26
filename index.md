@@ -12,11 +12,11 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 
 ## Preprints
 1. Asakura TR, Jung S-m, Murayama H, Ghaznavi C, Sakamoto H, Teshima A, Miura F, **Endo A***. Projecting international mpox spread in Asia: ongoing global health risk. medRxiv. 2024;2024.04.17.24305832. [doi:10.1101/2024.04.17.24305832](https://doi.org/10.1101/2024.04.17.24305832)
-1. Jung S-m, Miura F, Murayama H, Funk S, Wallinga J, Lessler J, **Endo A***. Dynamic landscape of mpox importation risks driven by heavy-tailed sexual contact networks among men who have sex with men in 2022: a mathematical modeling study. medRxiv. 2023;2023.10.06.23296610. [doi:10.1101/2023.10.06.23296610](https://doi.org/10.1101/2023.10.06.23296610)
 1. **Endo A**. 'Not finding causal effect’ is not ‘finding no causal effect’ of school closure on COVID-19 [version 1; peer review: 1 approved, 1 approved with reservations]. F1000Research. 2022;11:456 [doi: 10.12688/f1000research.111915.1](https://doi.org/10.12688/f1000research.111915.1)
 1. Abbott S, Hellewell J, Thompson RN, Sherratt K, Gibbs HP, Bosse NI, Munday JD, Meakin S, Doughty EL, Chun JY, Chan YD, Finger F, Campbell P, **Endo A**, Pearson CAB, Gimma A, Russell T, CMMID COVID modelling group, Flasche S, Kucharski AJ, Eggo RM, Funk S. Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts [version 1; peer review: awaiting peer review]. Wellcome Open Res. 2020, 5:112 [doi:10.12688/wellcomeopenres.16006.1](https://doi.org/10.12688/wellcomeopenres.16006.1)
 
 ## Publications
+1. Jung S-m, Miura F, Murayama H, Funk S, Wallinga J, Lessler J, **Endo A***. Dynamic landscape of mpox importation risks driven by heavy-tailed sexual contact networks among men who have sex with men in 2022. J Infect Dis. (in press) [doi:10.1101/2023.10.06.23296610](https://doi.org/10.1101/2023.10.06.23296610)
 1. Murayama H, **Endo A***, Yonekura S. Estimation of waning vaccine effectiveness from population-level surveillance data in multi-variant epidemics.
 Epidemics. 2023;45:100726. [doi:10.1016/j.epidem.2023.100726](https://doi.org/10.1016/j.epidem.2023.100726)
 1. Murayama H, Pearson CAB, Abbott S, Miura F, Jung S-m, Fearon E, Funk S, **Endo A***. Accumulation of immunity in heavy-tailed sexual contact networks shapes monkeypox outbreak sizes. J Infect Dis. 2023;jiad254. [doi:10.1093/infdis/jiad254](https://doi.org/10.1093/infdis/jiad254)
