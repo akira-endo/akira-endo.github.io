@@ -120,7 +120,7 @@ influenza among primary school students in Matsumoto city, Japan. Epidemics 8 Co
 1. Japan Society for the Promotion of Science and The Royal Society Bilateral Joint Research Projects (co-I) (2024)
 1. The Commendation for Science and Technology by the Minister of Education, Culture, Sports, Science and Technology: The Young Scientists’ Award (2024)
 1. National University of Singapore Startup Grant (2023)
-1. US National Science Foundation: Research Advanced by Interdisciplinary Science and Engineering (RAISE) (collaborator) (2023)
+1. US National Science Foundation: Research Advanced by Interdisciplinary Science and Engineering (RAISE) (co-I) (2023)
 1. Nagasaki University impactful paper award in 2021 (2022)
 1. Japan Science and Technology Agency: Precursory Research for Embryonic Science and Technology grant (2022)
 1. Japan Society for Mathematical Biology: Early Career Award (2022)
