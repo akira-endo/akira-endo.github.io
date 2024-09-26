@@ -15,7 +15,7 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 1. Abbott S, Hellewell J, Thompson RN, Sherratt K, Gibbs HP, Bosse NI, Munday JD, Meakin S, Doughty EL, Chun JY, Chan YD, Finger F, Campbell P, **Endo A**, Pearson CAB, Gimma A, Russell T, CMMID COVID modelling group, Flasche S, Kucharski AJ, Eggo RM, Funk S. Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts [version 1; peer review: awaiting peer review]. Wellcome Open Res. 2020, 5:112 [doi:10.12688/wellcomeopenres.16006.1](https://doi.org/10.12688/wellcomeopenres.16006.1)
 
 ## Publications
-1. 1. Asakura TR, Jung S-m, Jin S, Hu G, **Endo A***, Dickens BL. Characterising global risk profiles of Mpox clade Ib importation. J Travel Med. 2024. (in press) [doi:10.1101/2024.09.09.24313259](https://doi.org/10.1101/2024.09.09.24313259)
+1. Asakura TR, Jung S-m, Jin S, Hu G, **Endo A***, Dickens BL. Characterising global risk profiles of Mpox clade Ib importation. J Travel Med. 2024. (in press) [doi:10.1101/2024.09.09.24313259](https://doi.org/10.1101/2024.09.09.24313259)
 1. Jung S-m, Miura F, Murayama H, Funk S, Wallinga J, Lessler J, **Endo A***. Dynamic landscape of mpox importation risks driven by heavy-tailed sexual contact networks among men who have sex with men in 2022. J Infect Dis. 2024;jiae433. [doi:10.1093/infdis/jiae433](https://doi.org/10.1093/infdis/jiae433)
 1. Murayama H, **Endo A***, Yonekura S. Estimation of waning vaccine effectiveness from population-level surveillance data in multi-variant epidemics.
 Epidemics. 2023;45:100726. [doi:10.1016/j.epidem.2023.100726](https://doi.org/10.1016/j.epidem.2023.100726)
