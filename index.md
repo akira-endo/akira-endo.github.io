@@ -16,7 +16,7 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 
 ## Publications
 1. Asakura TR, Jung S-m, Jin S, Hu G, **Endo A***, Dickens BL. Characterising global risk profiles of Mpox clade Ib importation. J Travel Med. 2024. (in press) [doi:10.1101/2024.09.09.24313259](https://doi.org/10.1101/2024.09.09.24313259)
-1. 1. **Endo A***. 'Not finding causal effect’ is not ‘finding no causal effect’ of school closure on COVID-19. F1000Research. 2024;11:456 [doi: 10.12688/f1000research.111915.2](https://doi.org/10.12688/f1000research.111915.2)
+1. **Endo A***. 'Not finding causal effect’ is not ‘finding no causal effect’ of school closure on COVID-19. F1000Research. 2024;11:456 [doi: 10.12688/f1000research.111915.2](https://doi.org/10.12688/f1000research.111915.2)
 1. Jung S-m, Miura F, Murayama H, Funk S, Wallinga J, Lessler J, **Endo A***. Dynamic landscape of mpox importation risks driven by heavy-tailed sexual contact networks among men who have sex with men in 2022. J Infect Dis. 2024;jiae433. [doi:10.1093/infdis/jiae433](https://doi.org/10.1093/infdis/jiae433)
 1. Murayama H, **Endo A***, Yonekura S. Estimation of waning vaccine effectiveness from population-level surveillance data in multi-variant epidemics.
 Epidemics. 2023;45:100726. [doi:10.1016/j.epidem.2023.100726](https://doi.org/10.1016/j.epidem.2023.100726)
