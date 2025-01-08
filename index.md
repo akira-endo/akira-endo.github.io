@@ -11,7 +11,8 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 * **MD & BSc**. Faculty of Medicine, The University of Tokyo. 2017.
 
 ## Preprints
-1. Asakura TR, Jung S-m, Murayama H, Ghaznavi C, Sakamoto H, Teshima A, Miura F, **Endo A***. Projecting international mpox spread in Asia: ongoing global health risk. medRxiv. 2024;2024.04.17.24305832. [doi:10.1101/2024.04.17.24305832](https://doi.org/10.1101/2024.04.17.24305832)
+1. Murayama H, Asakura TR, Dickens BL, Foo JH, Jin S, Mukadi PK, Ejima K, Jung S-m, Nishi A, Prem K, **Endo A***. Roles of community and sexual contacts as drivers of clade I mpox outbreaks. medRxiv 2024.10.15.24315554. [doi: 10.1101/2024.10.15.24315554](https://doi.org/10.1101/2024.10.15.24315554)
+1.  Asakura TR, Jung S-m, Murayama H, Ghaznavi C, Sakamoto H, Teshima A, Miura F, **Endo A***. Projecting international mpox spread in Asia: ongoing global health risk. medRxiv. 2024;2024.04.17.24305832. [doi:10.1101/2024.04.17.24305832](https://doi.org/10.1101/2024.04.17.24305832)
 1. Abbott S, Hellewell J, Thompson RN, Sherratt K, Gibbs HP, Bosse NI, Munday JD, Meakin S, Doughty EL, Chun JY, Chan YD, Finger F, Campbell P, **Endo A**, Pearson CAB, Gimma A, Russell T, CMMID COVID modelling group, Flasche S, Kucharski AJ, Eggo RM, Funk S. Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts [version 1; peer review: awaiting peer review]. Wellcome Open Res. 2020, 5:112 [doi:10.12688/wellcomeopenres.16006.1](https://doi.org/10.12688/wellcomeopenres.16006.1)
 
 ## Publications
@@ -117,6 +118,8 @@ influenza among primary school students in Matsumoto city, Japan. Epidemics 8 Co
 1. **Endo A**, Nishiura H. Transmission dynamics of vivax malaria in the republic of Korea: effectiveness of anti-malarial mass chemoprophylaxis. Challenges in Malaria Research, Oxford, Sept. 2014. (Poster)
 
 ## Grants, Awards and Scholarships
+1. Singapore Ministry of Education Academic Research Fund Tier 1 (2025)
+1. Commissioned Research, The Cabinet Secretariat of Japan (2024)
 1. Japan Society for the Promotion of Science and The Royal Society Bilateral Joint Research Projects (co-I) (2024)
 1. The Commendation for Science and Technology by the Minister of Education, Culture, Sports, Science and Technology: The Young Scientists’ Award (2024)
 1. National University of Singapore Startup Grant (2023)
