@@ -16,7 +16,7 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 
 ## Publications
 1.  Asakura TR, Jung S-m, Murayama H, Ghaznavi C, Sakamoto H, Teshima A, Miura F, **Endo A***. Simulating the international clade IIb mpox spread patterns in Asia, 2023 and onwards. Bull World Health Organ.(in press) [doi:10.1101/2024.04.17.24305832](https://doi.org/10.1101/2024.04.17.24305832)
-1. Janhavi A†, Gan G†, Endo A, Tan RKJ, Prem K, Dickens BL. Is Southeast Asia and the Western Pacific ready for potential monkeypox virus outbreaks? Lancet Reg Health West Pac.
+1. Janhavi A†, Gan G†, **Endo A**, Tan RKJ, Prem K, Dickens BL. Is Southeast Asia and the Western Pacific ready for potential monkeypox virus outbreaks? Lancet Reg Health West Pac.
 2025;57:101526. [doi: 10.1016/j.lanwpc.2025.101526](https://doi.org/10.1016/j.lanwpc.2025.101526)
 1. Jin S†, Guan T†, **Endo A**, Gan G, Janhavi A, Hu G, Ejima K, Lim JT, Dickens BL, Effectiveness of different border control strategies for reducing mpox importation risk: a modelling study. Lancet Reg Health Southeast Asia. 2025;35:100565. [doi:10.1016/j.lansea.2025.100565](https://doi.org/10.1016/j.lansea.2025.100565)
 1. Han SM, Shiino T, Masuda S, Furuse Y, Yasaka T, Kanda S, Komori K, Saito N, Kubo Y, Smith C, **Endo A**, Robert A, Baguelin M, Ariyoshi K. Phylogenetic Study of Local Patterns Influenza A(H3N2) Virus Transmission in a Semi-Isolated Population in a Remote Island in Japan Between 2011 and 2013. Influenza Other Respir Viruses. 2025;19(3):e70089. [doi: 10.1111/irv.70089](https://doi.org/10.1111/irv.70089)
