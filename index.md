@@ -11,6 +11,7 @@ Compared with other types of diseases, infectious diseases are unique in that pr
 * **MD & BSc**. Faculty of Medicine, The University of Tokyo. 2017.
 
 ## Preprints
+1. Jin S, Asakura TR, Murayama H, Niyukuri D, Saila-Ngita D, Lim JT, **Endo A**†, Dickens BL†. Vaccine demands to achieve outbreak control for MPXV Clade I with one-time mass campaign in sub-Saharan Africa: scenario-based modelling study. medRxiv 2025.01.17.25320753. [doi: 10.1101/2025.01.17.25320753](https://doi.org/10.1101/2025.01.17.25320753)
 1. Murayama H, Asakura TR, Dickens BL, Foo JH, Jin S, Mukadi PK, Ejima K, Jung S-m, Nishi A, Prem K, **Endo A***. Roles of community and sexual contacts as drivers of clade I mpox outbreaks. medRxiv 2024.10.15.24315554. [doi: 10.1101/2024.10.15.24315554](https://doi.org/10.1101/2024.10.15.24315554)
 1. Abbott S, Hellewell J, Thompson RN, Sherratt K, Gibbs HP, Bosse NI, Munday JD, Meakin S, Doughty EL, Chun JY, Chan YD, Finger F, Campbell P, **Endo A**, Pearson CAB, Gimma A, Russell T, CMMID COVID modelling group, Flasche S, Kucharski AJ, Eggo RM, Funk S. Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts [version 1; peer review: awaiting peer review]. Wellcome Open Res. 2020, 5:112 [doi:10.12688/wellcomeopenres.16006.1](https://doi.org/10.12688/wellcomeopenres.16006.1)
 
