@@ -126,6 +126,7 @@ influenza among primary school students in Matsumoto city, Japan. Epidemics 8 Co
 1. **Endo A**, Nishiura H. Transmission dynamics of vivax malaria in the republic of Korea: effectiveness of anti-malarial mass chemoprophylaxis. Challenges in Malaria Research, Oxford, Sept. 2014. (Poster)
 
 ## Grants, Awards and Scholarships
+1. Japan Science and Technology Agency: Fusion Oriented REsearch for disruptive Science and Technology (FOREST) grant (2026)
 1. Singapore Ministry of Education Academic Research Fund Tier 1 (2025)
 1. Commissioned Research, The Cabinet Secretariat of Japan (2024)
 1. Japan Society for the Promotion of Science and The Royal Society Bilateral Joint Research Projects (co-I) (2024)
